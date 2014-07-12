@@ -22,3 +22,6 @@
 [submodule "bundle/supertab"]
 	path = bundle/supertab
 	url = git://github.com/ervandew/supertab.git
+[submodule "bundle/striptease"]
+	path = bundle/striptease
+	url = git://github.com/tpope/vim-scriptease.git
