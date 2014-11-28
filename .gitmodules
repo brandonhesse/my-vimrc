@@ -37,3 +37,6 @@
 [submodule "bundle/jellbean-scheme"]
 	path = bundle/jellbean-scheme
 	url = https://github.com/nanotech/jellybeans.vim.git
+[submodule "bundle/node"]
+	path = bundle/node
+	url = https://github.com/moll/vim-node.git
