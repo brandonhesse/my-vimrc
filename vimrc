@@ -10,6 +10,7 @@ set tabstop=4
 set shiftwidth=4    " Size of other tabs
 set softtabstop=4   " Soft Tabs
 set expandtab       " Tabs as spaces
+set bs=indent,eol,start
 
 set number          "Line numbers
 
@@ -34,7 +35,7 @@ let g:solarized_termcolors=256
 let g:solarized_contrast="high"
 let g:solarized_visibility="high"
 
-colorscheme solarized
+colorscheme desert256
 
 "Special wrap function for normal key movement
 noremap <silent> <Leader>w :call ToggleWrap()<CR>
